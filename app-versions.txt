@@ -1,2 +1,2 @@
-catalogue 36=2.0.5
+catalogue 36=2.0.6
 lab 38=1.33.18
